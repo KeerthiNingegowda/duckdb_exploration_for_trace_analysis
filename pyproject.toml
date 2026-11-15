@@ -1,0 +1,10 @@
+[project]
+name = "duckdb-exploration-for-trace-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=2.0.0",
+    "pandas>=3.1.1",
+]
